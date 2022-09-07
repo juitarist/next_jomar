@@ -16,7 +16,7 @@ const Coding = () => {
                         <div className='m-auto'>
 
                             <Image 
-                            src='/public/assets/skills/html.png'
+                            src='/assets/skills/html.png'
                             width='64px'
                             height='64px'
                             alt='/'
@@ -32,7 +32,7 @@ const Coding = () => {
                         <div className='m-auto'>
 
                             <Image 
-                            src='/public/assets/skills/css.png'
+                            src='/assets/skills/css.png'
                             width='64px'
                             height='64px'
                             alt='/'
@@ -48,7 +48,7 @@ const Coding = () => {
                         <div className='m-auto'>
 
                             <Image 
-                            src='/public/assets/skills/javascript.png'
+                            src='/assets/skills/javascript.png'
                             width='64px'
                             height='64px'
                             alt='/'
@@ -64,7 +64,7 @@ const Coding = () => {
                         <div className='m-auto'>
 
                             <Image 
-                            src='/public/assets/skills/python.png'
+                            src='/assets/skills/python.png'
                             width='64px'
                             height='64px'
                             alt='/'
@@ -80,7 +80,7 @@ const Coding = () => {
                         <div className='m-auto'>
 
                             <Image 
-                            src='/public/assets/skills/sql.png'
+                            src='/assets/skills/sql.png'
                             width='64px'
                             height='64px'
                             alt='/'
@@ -96,7 +96,7 @@ const Coding = () => {
                         <div className='m-auto'>
 
                             <Image 
-                            src='/public/assets/skills/react.png'
+                            src='/assets/skills/react.png'
                             width='64px'
                             height='64px'
                             alt='/'
@@ -112,7 +112,7 @@ const Coding = () => {
                         <div className='m-auto'>
 
                             <Image 
-                            src='/public/assets/skills/nextjs.png'
+                            src='/assets/skills/nextjs.png'
                             width='64px'
                             height='64px'
                             alt='/'
@@ -128,7 +128,7 @@ const Coding = () => {
                         <div className='m-auto'>
 
                             <Image 
-                            src='/public/assets/skills/node.png'
+                            src='/assets/skills/node.png'
                             width='64px'
                             height='64px'
                             alt='/'
@@ -144,7 +144,7 @@ const Coding = () => {
                         <div className='m-auto'>
 
                             <Image 
-                            src='/public/assets/skills/tailwind.png'
+                            src='/assets/skills/tailwind.png'
                             width='64px'
                             height='64px'
                             alt='/'
@@ -160,7 +160,7 @@ const Coding = () => {
                         <div className='m-auto'>
 
                             <Image 
-                            src='/public/assets/skills/php.png'
+                            src='/assets/skills/php.png'
                             width='100px'
                             height='64px'
                             alt='/'
@@ -176,7 +176,7 @@ const Coding = () => {
                         <div className='m-auto'>
 
                             <Image 
-                            src='/public/assets/skills/github1.png'
+                            src='/assets/skills/github1.png'
                             width='64px'
                             height='64px'
                             alt='/'
