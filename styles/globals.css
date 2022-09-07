@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Rubik', sans-serif;
+  font-size: 0.9rem;
+}
+
+h3 {
+  font-style: italic;
+}
+
+
+.custom-img {
+  background-image: url(https://live.staticflickr.com/65535/52291902455_a6bd37fabf_k_d.jpg);
+}
+
+.bg-img-2 {
+  background-image: url(https://live.staticflickr.com/65535/52293602151_eaffae97a2_k.jpg);
+}
+
+.bg-img-3 {
+  background-image: url(https://live.staticflickr.com/65535/52286952171_013e51356b_k.jpg);
+}
