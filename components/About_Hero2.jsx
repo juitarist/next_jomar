@@ -21,10 +21,10 @@ const About_Hero = ({heading, message, texto}) => {
     <h1 className='text-2xl pt-2 font-light text-blue-500 uppercase'>"You know, I'm something <br /> of a scientist myself"</h1>
     <p className='font-light px-7 italic mb-3'> 'Passion driven and people oriented' </p>
       <p className='text-left font-light'>Graduated in Fall 2021 with a B.S. in Physics from CSULB. Applied physicist with a experience in lithography, semiconductor development, and circuitry design. <br />
-      I'm largely curious about everything and highliy inqusitive. I love to learn, read, and discover new things. Probably played a part in why I decided to pursue physics. I always felt like it would take away from my 'creative' outlets, but as I dove deeper into the subject, I would find out that there are tremendous amounts of creativity in physics and maths. I've met many colleagues with creativity and wonder poring out in my undergrad time and they've helped me understand that this is where I should be.
+      I'm largely curious about everything and highliy inqusitive. I love to learn, read, and discover new things. Probably played a part in why I decided to pursue physics. I always felt like it would take away from my 'creative' outlets, but as I dove deeper into the subject, I would find out that there are tremendous amounts of creativity in physics and maths. I've met many colleagues with creativity and wonder pouring out during my undergrad and they've helped me understand that this is where I should be.
 
       <br /><br />
-      INFJ. But a F/T switch. 
+      INFJ. But aa F/T switch. 
 
       <br /><br />
       Favorite Quote: <i>" I'm only as smart as my paygrade "</i>
