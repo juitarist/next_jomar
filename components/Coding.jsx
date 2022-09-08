@@ -119,7 +119,7 @@ const Coding = () => {
                             />
                         </div>
                         <div className='flex flex-col items-center justify-center'>
-                            <h3 className='text-red-600'>next.JS</h3>
+                            <h3 className='text-red-600'>Next.JS</h3>
                         </div>
                         </div></div>
 
@@ -135,7 +135,7 @@ const Coding = () => {
                             />
                         </div>
                         <div className='flex flex-col items-center justify-center'>
-                            <h3 className='text-red-600'>nodeJS</h3>
+                            <h3 className='text-red-600'>Node.JS</h3>
                         </div>
                         </div></div>
 
