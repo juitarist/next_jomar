@@ -24,7 +24,7 @@ const About_Hero = ({heading, message, texto}) => {
       I'm largely curious about everything and highliy inqusitive. I love to learn, read, and discover new things. Probably played a part in why I decided to pursue physics. I always felt like it would take away from my 'creative' outlets, but as I dove deeper into the subject, I would find out that there are tremendous amounts of creativity in physics and maths. I've met many colleagues with creativity and wonder pouring out during my undergrad and they've helped me understand that this is where I should be.
 
       <br /><br />
-      INFJ. But aa F/T switch. 
+      INFJ. But an F/T switch. Currently working on mobile applications and web development. 
 
       <br /><br />
       Favorite Quote: <i>" I'm only as smart as my paygrade "</i>
