@@ -28,6 +28,7 @@ const Experiments = () => {
           <li className='font-light '>LabView</li> 
           <li className='font-light '>MATLAB</li>
           <li className='font-light '>Windows, MacOS, iOS, Android</li>
+          <li className='font-light '>Microsoft Office</li>
           <li className='font-light '>Mathematica</li>
           <li className='font-light '>JMP</li>
           <li className='font-light '>Visual Studio</li>
