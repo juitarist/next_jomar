@@ -1,6 +1,8 @@
-import React from 'react'
+import React, { FC, useEffect } from "react";
+import { useAnimation } from "framer-motion";
 import Link from 'next/link'
-import { FaFlickr, FaInstagram, FaLinkedin, FaSoundcloud, FaTwitter } from 'react-icons/fa'
+
+import { skills } from "./libs/skills.tsx";
 
 const About_Hero = ({heading, message, texto}) => {
   return (
@@ -11,6 +13,7 @@ const About_Hero = ({heading, message, texto}) => {
       <div className='absolute top-0 left-0 right-0 bottom-0 bg-black/0 z-[2]'/>
 
 
+
 <div id='aboutme' class="container mx-auto px-10 max-w-[1200px]">
 <div className='grid grid-cols-1 mb-2 h-full md:grid-cols-3 '>
 <div className='max-h-[800px] md:h-screen pb-2'>
@@ -18,13 +21,19 @@ const About_Hero = ({heading, message, texto}) => {
   </div>
 <div className='flex justify-center bg-white/100 px-10 col-span-2'>
   <div className='mb-auto  mt-auto max-w-lg '>
+
+
+
     <h1 className='text-2xl pt-2 font-light text-blue-500 uppercase'>"You know, I'm something <br /> of a scientist myself"</h1>
     <p className='font-light px-7 italic mb-3'> 'Passion driven and people oriented' </p>
-      <p className='text-left font-light'>Graduated in Fall 2021 with a B.S. in Physics from CSULB. Applied physicist with experience in lithography, semiconductor development, and circuit design. <br />
-      I'm largely curious about everything and highliy inqusitive. I love to learn, read, and discover new things. Probably played a part in why I decided to pursue physics. I always felt like it would take away from my 'creative' outlets, but as I dove deeper into the subject, I would find out that there are tremendous amounts of creativity in physics and maths. I've met many colleagues with creativity and wonder pouring out during my undergrad and they've helped me understand that this is where I should be.
+
+
+
+      <p className='text-left font-light'>Graduated in Fall 2021 with a B.S. in Physics from CSULB. Experimental physicist with a experience in lithography, semiconductor development, and circuitry design. <br />
+      I'm largely curious about everything and highly inqusitive. I love to learn, read, and discover new things. As a creative person who thought physics was a constrained topic, I found out physics with brimming with creativity and wonder through the many colleagues I met in the CSULB physics program. 
 
       <br /><br />
-      INFJ. But an F/T switch. Currently working on mobile applications and web development. 
+      INFJ. Filipino. Currently working on mobile applications and web development. This website and my Web 1.x site are built from scratch.
 
       <br /><br />
       Favorite Quote: <i>" I'm only as smart as my paygrade "</i>
@@ -43,8 +52,11 @@ const About_Hero = ({heading, message, texto}) => {
 
         </ul>
 
-    <button  className='bg-black rounded-md py-3 px-7 mt-6 mb-9 text-white hover:bg-amber-700 ease-in duration-150'>
+    <button  className='bg-black rounded-md py-3 px-7 mt-6 mx-2 text-white hover:bg-amber-700 ease-in duration-150'>
     <Link href='/contact'>Ways to contact me</Link></button>
+
+    <button  className='bg-gradient-to-br from-purple-600 to-blue-500 rounded-full py-3 px-7 mt-2 mx-2 text-white hover:bg-gradient-to-bl ease-in duration-150'>
+    <a href='https://juitarist.github.io/jomariresare/' target='_blank'>Learn more about me at my Web1.x page</a></button>
   </div>
 </div>
 </div>
