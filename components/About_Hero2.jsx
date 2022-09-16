@@ -32,7 +32,7 @@ const About_Hero = ({heading, message, texto}) => {
       I'm largely curious about everything and highly inqusitive. I love to learn, read, and discover new things. As a creative person who thought physics was a constrained topic, I found out physics with brimming with creativity and wonder through the many colleagues I met in the CSULB physics program. 
 
       <br /><br />
-      INFJ. Filipino. Currently working on mobile applications and web development. This website and my Web 1.x site are built from scratch.
+      INFJ. Filipino. Currently working on mobile applications and web development. This website and my Web 1.x site are built by me.
 
       <br /><br />
       Favorite Quote: <i>" I'm only as smart as my paygrade "</i>
