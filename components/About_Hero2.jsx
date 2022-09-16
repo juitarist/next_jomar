@@ -2,7 +2,6 @@ import React, { FC, useEffect } from "react";
 import { useAnimation } from "framer-motion";
 import Link from 'next/link'
 
-import { skills } from "./libs/skills.tsx";
 
 const About_Hero = ({heading, message, texto}) => {
   return (
