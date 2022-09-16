@@ -50,11 +50,9 @@ const ContactMe = () => {
 
             <div className='flex items-center justify-between max-w-[700px] m-auto pb-3'> 
             
-            <a href='https://juitarist.github.io/jomariresare/' target='_blank' className='rounded-lg shadow-lg shadow-blue-500 py-3 px-36 m-2 cursor-pointer hover:scale-125 ease-in duration-300'>              
-                
-                <FaSafari size={20} />
 
-              </a>
+              <button  className='bg-gradient-to-br from-purple-600 to-blue-500 shadow-lg shadow-blue-500 rounded-full py-3 px-7 mt-2 mx-2 text-white hover:bg-gradient-to-bl  cursor-pointer hover:scale-125 ease-in duration-300 items-center inline-block text-center justify-center align-middle'>
+    <a href='https://juitarist.github.io/jomariresare/' target='_blank'> My Web 1.x Site </a></button>
 
             </div>
 
