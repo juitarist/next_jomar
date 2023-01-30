@@ -8,7 +8,7 @@ const Experiments = () => {
        
 
         <div className='grid md:grid-cols-2'>
-            <h1 className='text-2xl pb-3 text-center tracking-widest uppercase text-[#5651e5]'>Relevant Coursework - BS Physics CSULB Fall 2021 </h1>
+            <h1 className='text-2xl pb-3 text-center tracking-widest uppercase text-[#5651e5]'>BS Physics CSULB </h1>
 
             <ul className='list-disc px-11'>  
           
