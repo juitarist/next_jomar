@@ -15,7 +15,7 @@ const AboutMe = () => {
         <div className='mb-auto  mt-auto max-w-lg'>
           <h1 className='text-3xl uppercase'>Jomar Iresare</h1>
           <p className='font-semibold mb-5'> "Passion driven and people oriented" </p>
-            <p className='text-left'>Graduated in Fall 2021 with a B.S. in Physics from CSULB. Applied physicist with a background in lithography, circuit design, and qualitative research. Experience with semiconductor development and designing circuitry. <br></br>
+            <p className='text-left'>B.S. Physics from CSULB. Applied physicist with a background in lithography, circuit design, and qualitative research. Experience with semiconductor development and designing circuitry. <br></br>
                 Pursued physics due to a wide-breadth of interests from nuclear physics to audio engineering. Currently working in photography and Web Development.</p>
           <button  className='bg-black rounded-md py-3 px-7 mt-6 text-white hover:bg-amber-700 '>
           <Link href='/contact'>Ways to contact me</Link></button>
