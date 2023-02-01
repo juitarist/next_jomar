@@ -28,7 +28,7 @@ const About_Hero = ({heading, message, texto}) => {
 
 
 
-      <p className='text-left font-light'>Graduated in Fall 2021 with a B.S. in Physics from CSULB. Experimental physicist with a experience in lithography, semiconductor development, and circuitry design. <br />
+      <p className='text-left font-light'>B.S. Physics from CSULB. Experimental physicist with a experience in lithography, semiconductor development, and circuitry design. <br />
       I'm largely curious about everything and highly inqusitive. I love to learn, read, and discover new things. As a creative person who thought physics was a constrained topic, I found out physics with brimming with creativity and wonder through the many colleagues I met in the CSULB physics program. 
 
       <br /><br />
