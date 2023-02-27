@@ -94,10 +94,8 @@ const Experiments = () => {
         </div>
         <div className='max-w-[400px] mx-auto'>
         <p className='text-red-600  text-md'>Fabrication of a Graphene Field Effect Transistor (GFET): </p>
-        <p className='pl-7 font-light'>Designed and developed a Graphene Field Effect Transistor. Developed a process method in order to acheive the proper specifications of a GFET. </p>
+        <p className='pl-7 font-light'>Designed and developed a Graphene Field Effect Transistor. </p>
 
-        <p className='text-red-600  text-md'>Fundamental Noise of a Metal-Semiconductor Junction: </p>
-        <p className='pl-7 font-light'>Analyzed noise characteristics of an M-S junction at increasing temperatures to find interactions between increasing noise and the effects of a Schottky barrier.</p>
         </div>
 
 
