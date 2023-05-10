@@ -4,7 +4,7 @@
 
 html {
   scroll-behavior: smooth;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 0.9rem;
 }
 
@@ -14,7 +14,7 @@ h3 {
 
 
 .custom-img {
-  background-image: url(https://live.staticflickr.com/65535/52291902455_a6bd37fabf_k_d.jpg);
+  background-image: url(https://live.staticflickr.com/65535/52363852594_152f072b1c_k.jpg);
 }
 
 .bg-img-2 {
@@ -22,5 +22,5 @@ h3 {
 }
 
 .bg-img-3 {
-  background-image: url(https://live.staticflickr.com/65535/52286952171_013e51356b_k.jpg);
+  background-image: url(https://live.staticflickr.com/65535/52886078953_3a6ab5c8b2_k.jpg);
 }

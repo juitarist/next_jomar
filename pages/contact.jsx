@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import Head from 'next/head'
 import Hero_3 from '../components/ContactMe'
 import { motion } from 'framer-motion'
+import Contact from "../components/Contact";
 
 const contact = () => {
   const [citation, setCitation] = useState(true);
@@ -49,6 +50,7 @@ const contact = () => {
       >
 
         <Hero_3  />
+
 
         </motion.div> 
     </div>

@@ -17,8 +17,8 @@ const Coding = () => {
 
                             <Image 
                             src='/assets/skills/html.png'
-                            width='64px'
-                            height='64px'
+                            width='64'
+                            height='64'
                             alt='/'
                             />
                         </div>
@@ -33,8 +33,8 @@ const Coding = () => {
 
                             <Image 
                             src='/assets/skills/css.png'
-                            width='64px'
-                            height='64px'
+                            width='64'
+                            height='64'
                             alt='/'
                             />
                         </div>
@@ -49,8 +49,8 @@ const Coding = () => {
 
                             <Image 
                             src='/assets/skills/javascript.png'
-                            width='64px'
-                            height='64px'
+                            width='64'
+                            height='64'
                             alt='/'
                             />
                         </div>
@@ -65,8 +65,8 @@ const Coding = () => {
 
                             <Image 
                             src='/assets/skills/python.png'
-                            width='64px'
-                            height='64px'
+                            width='64'
+                            height='64'
                             alt='/'
                             />
                         </div>
@@ -81,8 +81,8 @@ const Coding = () => {
 
                             <Image 
                             src='/assets/skills/sql.png'
-                            width='64px'
-                            height='64px'
+                            width='64'
+                            height='64'
                             alt='/'
                             />
                         </div>
@@ -97,8 +97,8 @@ const Coding = () => {
 
                             <Image 
                             src='/assets/skills/react.png'
-                            width='64px'
-                            height='64px'
+                            width='64'
+                            height='64'
                             alt='/'
                             />
                         </div>
@@ -113,8 +113,8 @@ const Coding = () => {
 
                             <Image 
                             src='/assets/skills/nextjs.png'
-                            width='64px'
-                            height='64px'
+                            width='64'
+                            height='64'
                             alt='/'
                             />
                         </div>
@@ -129,8 +129,8 @@ const Coding = () => {
 
                             <Image 
                             src='/assets/skills/node.png'
-                            width='64px'
-                            height='64px'
+                            width='64'
+                            height='64'
                             alt='/'
                             />
                         </div>
@@ -145,8 +145,8 @@ const Coding = () => {
 
                             <Image 
                             src='/assets/skills/tailwind.png'
-                            width='64px'
-                            height='64px'
+                            width='64'
+                            height='64'
                             alt='/'
                             />
                         </div>
@@ -161,8 +161,8 @@ const Coding = () => {
 
                             <Image 
                             src='/assets/skills/php.png'
-                            width='100px'
-                            height='64px'
+                            width='100'
+                            height='64'
                             alt='/'
                             />
                         </div>
@@ -177,8 +177,8 @@ const Coding = () => {
 
                             <Image 
                             src='/assets/skills/github1.png'
-                            width='64px'
-                            height='64px'
+                            width='64'
+                            height='64'
                             alt='/'
                             />
                         </div>
